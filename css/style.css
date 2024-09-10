@@ -1,0 +1,12 @@
+:root{
+    --color-primary:#000;
+    --color-secondary:#e3cccc;
+    --color-accent:red; 
+}
+/* Typography */
+::selection{
+    background: rgb(42, 125, 251);
+    color: #fff;
+}
+
+
